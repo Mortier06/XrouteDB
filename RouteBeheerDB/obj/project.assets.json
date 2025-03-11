@@ -642,6 +642,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "RouteBeheerBL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/RouteBeheerBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RouteBeheerBL.dll": {}
+        }
       }
     }
   },
@@ -1635,11 +1648,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "RouteBeheerBL/1.0.0": {
+      "type": "project",
+      "path": "../RouteBeheerBL/RouteBeheerBL.csproj",
+      "msbuildProject": "../RouteBeheerBL/RouteBeheerBL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.Data.SqlClient >= 6.0.1"
+      "Microsoft.Data.SqlClient >= 6.0.1",
+      "RouteBeheerBL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1673,7 +1692,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerBL\\RouteBeheerBL.csproj": {
+              "projectPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerBL\\RouteBeheerBL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

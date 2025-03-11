@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteBeheerDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2090fbd7cb940dcfe88b834dfd4aa4a89bf11ecc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ecc8264e247037a4893eb2eda1901beb1a290e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteBeheerDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteBeheerDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -643,11 +643,25 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "RouteBeheerDB/1.0.0": {
+      "RouteBeheerBL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.Data.SqlClient": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/RouteBeheerBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RouteBeheerBL.dll": {}
+        }
+      },
+      "RouteBeheerDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.1",
+          "RouteBeheerBL": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RouteBeheerDB.dll": {}
@@ -1648,6 +1662,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "RouteBeheerBL/1.0.0": {
+      "type": "project",
+      "path": "../RouteBeheerBL/RouteBeheerBL.csproj",
+      "msbuildProject": "../RouteBeheerBL/RouteBeheerBL.csproj"
     },
     "RouteBeheerDB/1.0.0": {
       "type": "project",

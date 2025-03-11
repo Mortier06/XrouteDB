@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{74F90530-0935-4AD7-87FE-E2D843726A3A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBeheerDB", "RouteBeheerDB\RouteBeheerDB.csproj", "{3F742159-1F3B-40E4-9016-9E6C26BFB60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBeheerBL", "RouteBeheerBL\RouteBeheerBL.csproj", "{715C3DB3-D8E1-4C39-A7EA-A46449F81329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteBeheerWPF", "RouteBeheerWPF\RouteBeheerWPF.csproj", "{ABBA99F3-829C-4C3B-844D-6F74A17A2DB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{3F742159-1F3B-40E4-9016-9E6C26BFB60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F742159-1F3B-40E4-9016-9E6C26BFB60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F742159-1F3B-40E4-9016-9E6C26BFB60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715C3DB3-D8E1-4C39-A7EA-A46449F81329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715C3DB3-D8E1-4C39-A7EA-A46449F81329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715C3DB3-D8E1-4C39-A7EA-A46449F81329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715C3DB3-D8E1-4C39-A7EA-A46449F81329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBA99F3-829C-4C3B-844D-6F74A17A2DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBA99F3-829C-4C3B-844D-6F74A17A2DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBA99F3-829C-4C3B-844D-6F74A17A2DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBA99F3-829C-4C3B-844D-6F74A17A2DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
-using RouteBeheerDB.model;
+using RouteBeheerBL.interfaces;
+using RouteBeheerBL.model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace RouteBeheerDB.Repository
 {
-    public class NetwerkRepository
+    public class NetwerkRepository : INetwerkRepository
     {
         private string connectionString;
 
