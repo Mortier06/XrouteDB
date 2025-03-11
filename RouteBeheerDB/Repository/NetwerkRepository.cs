@@ -29,8 +29,21 @@ namespace RouteBeheerDB.Repository
                 location.id = (int)cmd.ExecuteScalar();
             }
         }
+        public void UpdateLocatie(Locatie location)
+        {
+            string query = "UPDATE locatie Set naam = @naam WHERE id=@id";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlCommand cmd = connection.CreateCommand())
+            {
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@naam", location.Name);
+                cmd.Parameters.AddWithValue("@id", location.id);
+                connection.Open();
+                cmd.ExecuteNonQuery();
+            }
+        }
 
-        public bool HasLocation(Locatie location)
+        public bool HasLocationName(Locatie location)
         {
             string query = "SELECT count(*) FROM locatie WHERE naam = @naam";
             using(SqlConnection connection = new SqlConnection(connectionString))
@@ -42,18 +55,19 @@ namespace RouteBeheerDB.Repository
                 if ((int)cmd.ExecuteScalar() == 0) return false; else return true;
             }
         }
-        public void UpdateLocatie()
+        public bool HasLocationId(int id)
         {
-            string query = "UPDATE locatie Set naam = @naam WHERE";
+            string query = "SELECT count(*) FROM locatie WHERE id = @id";
             using (SqlConnection connection = new SqlConnection(connectionString))
             using (SqlCommand cmd = connection.CreateCommand())
             {
                 cmd.CommandText = query;
-                cmd.Parameters.AddWithValue("@naam", location.Name);
+                cmd.Parameters.AddWithValue("@id", id);
                 connection.Open();
-                location.id = (int)cmd.ExecuteScalar();
+                if ((int)cmd.ExecuteScalar() == 0) return false; else return true;
             }
         }
+        
 
     }
 }
