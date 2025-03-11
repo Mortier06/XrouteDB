@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\routebeheerdb\\repository\\netwerkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|solutionrelative:routebeheerdb\\repository\\netwerkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\consoleapp1\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\routebeheerdb\\model\\xroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|solutionrelative:routebeheerdb\\model\\xroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\consoleapp1\\networkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F90530-0935-4AD7-87FE-E2D843726A3A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\networkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\routebeheerdb\\model\\locatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|solutionrelative:routebeheerdb\\model\\locatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|c:\\users\\thibaud.mortier\\school\\prog gevorderd\\labo\\solutionroutebeheer\\routebeheerdb\\model\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F742159-1F3B-40E4-9016-9E6C26BFB60C}|RouteBeheerDB\\RouteBeheerDB.csproj|solutionrelative:routebeheerdb\\model\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\NetworkManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\NetworkManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:38:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetwerkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\Repository\\NetwerkRepository.cs",
+              "RelativeDocumentMoniker": "RouteBeheerDB\\Repository\\NetwerkRepository.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\Repository\\NetwerkRepository.cs",
+              "RelativeToolTip": "RouteBeheerDB\\Repository\\NetwerkRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:32:46.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\XRoute.cs",
+              "RelativeDocumentMoniker": "RouteBeheerDB\\model\\XRoute.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\XRoute.cs",
+              "RelativeToolTip": "RouteBeheerDB\\model\\XRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:32:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Segment.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\Segment.cs",
+              "RelativeDocumentMoniker": "RouteBeheerDB\\model\\Segment.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\Segment.cs",
+              "RelativeToolTip": "RouteBeheerDB\\model\\Segment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:31:52.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Locatie.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\Locatie.cs",
+              "RelativeDocumentMoniker": "RouteBeheerDB\\model\\Locatie.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\RouteBeheerDB\\model\\Locatie.cs",
+              "RelativeToolTip": "RouteBeheerDB\\model\\Locatie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:31:42.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkException.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\NetworkException.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NetworkException.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\NetworkException.cs",
+              "RelativeToolTip": "ConsoleApp1\\NetworkException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:47:50.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Thibaud.Mortier\\school\\prog gevorderd\\labo\\SolutionRouteBeheer\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:30:12.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

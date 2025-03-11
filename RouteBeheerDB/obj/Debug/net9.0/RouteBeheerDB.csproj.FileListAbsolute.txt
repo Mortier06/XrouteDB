@@ -1,0 +1,13 @@
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\bin\Debug\net9.0\RouteBeheerDB.deps.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\bin\Debug\net9.0\RouteBeheerDB.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\bin\Debug\net9.0\RouteBeheerDB.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.csproj.AssemblyReference.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.AssemblyInfoInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.AssemblyInfo.cs
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.csproj.CoreCompileInputs.cache
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.sourcelink.json
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\refint\RouteBeheerDB.dll
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\RouteBeheerDB.pdb
+C:\Users\Thibaud.Mortier\school\prog gevorderd\labo\SolutionRouteBeheer\RouteBeheerDB\obj\Debug\net9.0\ref\RouteBeheerDB.dll
